@@ -1,0 +1,11 @@
+c:\users\administrator\documents\visual studio 2010\Projects\Flexible Attributes And Dynamic Methods\Game Character Settings\bin\Debug\Game Character Settings.exe
+c:\users\administrator\documents\visual studio 2010\Projects\Flexible Attributes And Dynamic Methods\Game Character Settings\bin\Debug\Game Character Settings.pdb
+c:\users\administrator\documents\visual studio 2010\Projects\Flexible Attributes And Dynamic Methods\Game Character Settings\obj\x86\Debug\MainWindow.baml
+c:\users\administrator\documents\visual studio 2010\Projects\Flexible Attributes And Dynamic Methods\Game Character Settings\obj\x86\Debug\MainWindow.g.cs
+c:\users\administrator\documents\visual studio 2010\Projects\Flexible Attributes And Dynamic Methods\Game Character Settings\obj\x86\Debug\App.g.cs
+c:\users\administrator\documents\visual studio 2010\Projects\Flexible Attributes And Dynamic Methods\Game Character Settings\obj\x86\Debug\Game Character Settings_MarkupCompile.cache
+c:\users\administrator\documents\visual studio 2010\Projects\Flexible Attributes And Dynamic Methods\Game Character Settings\obj\x86\Debug\Game Character Settings.g.resources
+c:\users\administrator\documents\visual studio 2010\Projects\Flexible Attributes And Dynamic Methods\Game Character Settings\obj\x86\Debug\Game_Character_Settings.Properties.Resources.resources
+c:\users\administrator\documents\visual studio 2010\Projects\Flexible Attributes And Dynamic Methods\Game Character Settings\obj\x86\Debug\Game Character Settings.csproj.GenerateResource.Cache
+c:\users\administrator\documents\visual studio 2010\Projects\Flexible Attributes And Dynamic Methods\Game Character Settings\obj\x86\Debug\Game Character Settings.exe
+c:\users\administrator\documents\visual studio 2010\Projects\Flexible Attributes And Dynamic Methods\Game Character Settings\obj\x86\Debug\Game Character Settings.pdb
