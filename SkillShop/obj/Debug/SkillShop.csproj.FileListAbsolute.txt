@@ -1,0 +1,7 @@
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\Flexible Attributes And Dynamic Methods\SkillShop\bin\Debug\SkillShop.dll
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\Flexible Attributes And Dynamic Methods\SkillShop\bin\Debug\SkillShop.pdb
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\Flexible Attributes And Dynamic Methods\SkillShop\bin\Debug\FlexibleUnit.dll
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\Flexible Attributes And Dynamic Methods\SkillShop\bin\Debug\FlexibleUnit.pdb
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\Flexible Attributes And Dynamic Methods\SkillShop\obj\Debug\SkillShop.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\Flexible Attributes And Dynamic Methods\SkillShop\obj\Debug\SkillShop.dll
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\Flexible Attributes And Dynamic Methods\SkillShop\obj\Debug\SkillShop.pdb

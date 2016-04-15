@@ -73,5 +73,16 @@ namespace GameUnit
         {
             _attributeManager.AddAttribute(new FlexibleAttribute(statName, "0", "int"));
         }
+
+        public void AddNewSkill(DynamicMethod dynamicMethod)
+        {
+            if (!_methodManager.Methods.ContainsKey(dynamicMethod.Name()))
+                _methodManager.AddMethod(dynamicMethod);
+        }
+
+        public List<String> GetAllSkills()
+        {
+            return _methodManager.Methods.Keys.ToList();
+        }
     }
 }
