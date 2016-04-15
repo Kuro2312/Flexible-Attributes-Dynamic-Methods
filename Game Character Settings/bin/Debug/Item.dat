@@ -1,0 +1,18 @@
+Armor;Dragon Shield;HP-5-DEF-20;Equip-Remove
+Armor;Dark Shield;HP-5-DEF-30-ATK-5;Equip-Remove
+Armor;Shield;HP-5-DEF-5;Equip-Remove
+Armor;Dragon Barbie;DEF-50;Equip-Remove
+Weapon;Dragon Flame;ATK-20;Equip-Remove
+Weapon;Blue Flame;ATK-100;Equip-Remove
+Weapon;Excalibur;ATK-20;Equip-Remove
+Weapon;Shotgun;ATK-20-SPD-50;Equip-Remove
+Weapon;Holy Excalibur;ATK-20-MP-100;Equip-Remove
+Weapon;Rifle;ATK-20;Equip-Remove
+Weapon;Rifle S;SPD-20-ATK-20;Equip-Remove
+Weapon;Gun;ATK-5;Equip-Remove
+Weapon;Sneaker;SPD-5;Equip-Remove
+Item;Potion;HP-10;Use
+Item;Holy Water;HP-10-MP-20;Use
+Item;Potion S;HP-20;Use
+Item;Apple;HP-10;Use
+Item;Brain;IQ-100;Use

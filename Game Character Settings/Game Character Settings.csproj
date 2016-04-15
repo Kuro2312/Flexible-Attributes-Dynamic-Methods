@@ -63,7 +63,6 @@
       <DependentUpon>App.xaml</DependentUpon>
       <SubType>Code</SubType>
     </Compile>
-    <Compile Include="Character.cs" />
     <Compile Include="MainWindow.xaml.cs">
       <DependentUpon>MainWindow.xaml</DependentUpon>
       <SubType>Code</SubType>
@@ -92,6 +91,16 @@
       <LastGenOutput>Settings.Designer.cs</LastGenOutput>
     </None>
     <AppDesigner Include="Properties\" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\FlexibleAttribute\FlexibleUnit.csproj">
+      <Project>{426B6350-43A6-4ED6-B72E-C59C128CBEBA}</Project>
+      <Name>FlexibleUnit</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\GameUnit\GameUnit.csproj">
+      <Project>{937A53F3-F55F-4166-BBC8-B62B987D8761}</Project>
+      <Name>GameUnit</Name>
+    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 

@@ -9,6 +9,14 @@ namespace FlexibleUnit
     {
         private Dictionary<string, FlexibleAttribute> _attributes;
 
+        public Dictionary<string, FlexibleAttribute> Attributes
+        {
+            get
+            {
+                return _attributes;
+            }
+        }
+
         public AttributeManager()
         {
             _attributes = new Dictionary<string, FlexibleAttribute>();
@@ -40,7 +48,7 @@ namespace FlexibleUnit
         {
             if (_attributes.ContainsKey(attributeName))
             {
-                if (_attributes[attributeName].Equals(type))
+                if (_attributes[attributeName].Type.Equals(type))
                 {
                     _attributes[attributeName].Value = newvalue;
                     return true;
@@ -78,6 +86,16 @@ namespace FlexibleUnit
             get
             {
                 return GetAtttributeValue(attributeName);
+            }
+        }
+
+        public void CopyFrom(AttributeManager attributes)
+        {
+            _attributes.Clear();
+
+            foreach (string key in attributes.Attributes.Keys)
+            {
+                _attributes.Add(key, attributes.Attributes[key]);
             }
         }
     }

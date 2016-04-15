@@ -9,6 +9,14 @@ namespace FlexibleUnit
     {
         private Dictionary<string, DynamicMethod> _methods;
 
+        public Dictionary<string, DynamicMethod> Methods
+        {
+            get
+            {
+                return _methods;
+            }
+        }
+
         public MethodManager()
         {
             _methods = new Dictionary<string, DynamicMethod>();
@@ -79,6 +87,16 @@ namespace FlexibleUnit
             get
             {
                 return GetMethod(methodName);
+            }
+        }
+
+        public void CopyFrom(MethodManager methods)
+        {
+            _methods.Clear();
+
+            foreach (string key in methods.Methods.Keys)
+            {
+                _methods.Add(key, methods.Methods[key]);
             }
         }
     }

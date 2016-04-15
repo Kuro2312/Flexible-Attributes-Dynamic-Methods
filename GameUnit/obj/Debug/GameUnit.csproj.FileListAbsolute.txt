@@ -1,0 +1,7 @@
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\Flexible Attributes And Dynamic Methods\GameUnit\bin\Debug\GameUnit.dll
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\Flexible Attributes And Dynamic Methods\GameUnit\bin\Debug\GameUnit.pdb
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\Flexible Attributes And Dynamic Methods\GameUnit\bin\Debug\FlexibleUnit.dll
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\Flexible Attributes And Dynamic Methods\GameUnit\bin\Debug\FlexibleUnit.pdb
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\Flexible Attributes And Dynamic Methods\GameUnit\obj\Debug\GameUnit.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\Flexible Attributes And Dynamic Methods\GameUnit\obj\Debug\GameUnit.dll
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\Flexible Attributes And Dynamic Methods\GameUnit\obj\Debug\GameUnit.pdb

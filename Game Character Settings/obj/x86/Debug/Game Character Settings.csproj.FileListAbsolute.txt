@@ -9,3 +9,8 @@ c:\users\administrator\documents\visual studio 2010\Projects\Flexible Attributes
 c:\users\administrator\documents\visual studio 2010\Projects\Flexible Attributes And Dynamic Methods\Game Character Settings\obj\x86\Debug\Game Character Settings.csproj.GenerateResource.Cache
 c:\users\administrator\documents\visual studio 2010\Projects\Flexible Attributes And Dynamic Methods\Game Character Settings\obj\x86\Debug\Game Character Settings.exe
 c:\users\administrator\documents\visual studio 2010\Projects\Flexible Attributes And Dynamic Methods\Game Character Settings\obj\x86\Debug\Game Character Settings.pdb
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\Flexible Attributes And Dynamic Methods\Game Character Settings\bin\Debug\FlexibleUnit.dll
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\Flexible Attributes And Dynamic Methods\Game Character Settings\bin\Debug\FlexibleUnit.pdb
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\Flexible Attributes And Dynamic Methods\Game Character Settings\obj\x86\Debug\Game Character Settings.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\Flexible Attributes And Dynamic Methods\Game Character Settings\bin\Debug\GameUnit.dll
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\Flexible Attributes And Dynamic Methods\Game Character Settings\bin\Debug\GameUnit.pdb

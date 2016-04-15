@@ -2,3 +2,4 @@ c:\users\administrator\documents\visual studio 2010\Projects\Flexible Attributes
 c:\users\administrator\documents\visual studio 2010\Projects\Flexible Attributes And Dynamic Methods\FlexibleAttribute\bin\Debug\FlexibleUnit.pdb
 c:\users\administrator\documents\visual studio 2010\Projects\Flexible Attributes And Dynamic Methods\FlexibleAttribute\obj\Debug\FlexibleUnit.dll
 c:\users\administrator\documents\visual studio 2010\Projects\Flexible Attributes And Dynamic Methods\FlexibleAttribute\obj\Debug\FlexibleUnit.pdb
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\Flexible Attributes And Dynamic Methods\FlexibleAttribute\obj\Debug\FlexibleUnit.csprojResolveAssemblyReference.cache
